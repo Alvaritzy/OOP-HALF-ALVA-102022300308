@@ -1,7 +1,5 @@
 {
-    "java.project.sourcePaths": [
-        "MODUL 1/TPMODUL1_ALVA/src"
-    ],
+    "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
